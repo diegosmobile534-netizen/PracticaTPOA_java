@@ -41,11 +41,3 @@ Es un triángulo: isósceles
 El perímetro es: 20.784
 ```
 
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-Para preguntas o sugerencias, puedes contactarme en [tu_email@example.com].
